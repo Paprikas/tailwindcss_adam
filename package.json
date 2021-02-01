@@ -4,7 +4,8 @@
   "description": "npm init -y",
   "main": "index.js",
   "scripts": {
-    "build": "postcss css/tailwind.css -o public/build/style.css"
+    "build": "postcss css/tailwind.css -o public/build/style.css",
+    "watch": "postcss css/tailwind.css -o public/build/style.css --watch"
   },
   "keywords": [],
   "author": "",
