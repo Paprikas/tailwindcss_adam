@@ -40,3 +40,9 @@ npm run build
 # Create full config file
 npx tailwind init tailwind-full.config.js --full
 ```
+
+## Video 8
+```
+# Install PurgeCSS
+npm install @fullhuman/postcss-purgecss
+```
