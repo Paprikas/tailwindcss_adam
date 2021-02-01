@@ -34,3 +34,9 @@ npx tailwind init
 # Rebuild css
 npm run build
 ```
+
+## Video 7
+```
+# Create full config file
+npx tailwind init tailwind-full.config.js --full
+```
