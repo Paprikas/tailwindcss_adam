@@ -28,3 +28,9 @@ npm install tailwindcss postcss-cli autoprefixer
 # Setup tailwind
 npx tailwind init
 ```
+
+## Video 4
+```
+# Rebuild css
+npm run build
+```
